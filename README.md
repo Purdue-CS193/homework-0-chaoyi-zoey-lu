@@ -58,3 +58,6 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | List is ‘bulleted’   | 1      |
 | Successfully committed homework   | 2      |
 | Total   | 10      |
+
+# Zoey's First CS193 Homework
+- No midterms
