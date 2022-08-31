@@ -61,3 +61,4 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 
 # Zoey's First CS193 Homework
 - No midterms
+- TAs are nice :)
