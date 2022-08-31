@@ -1,6 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8290676&assignment_repo_type=AssignmentRepo)
 # CS 193 Homework 0 - GitHub and Your Own Website!
 
+# Zoey's First CS193 Homework
+- No midterms
+- TAs are nice :)
+
 ## What is this assignment
 
 Throughout this homework you will create a personal GitHub account, use that GitHub account to modify some code from the homework repository, and then submit it to us for grading! This same basic process will be used throughout CS193 to complete and turn in all of your homeworks. For this first one, we're focusing on getting you used to the process.
@@ -58,7 +62,3 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 | List is ‘bulleted’   | 1      |
 | Successfully committed homework   | 2      |
 | Total   | 10      |
-
-# Zoey's First CS193 Homework
-- No midterms
-- TAs are nice :)
